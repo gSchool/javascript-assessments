@@ -1,0 +1,16 @@
+{
+  "name": "js-expressions",
+  "version": "1.0.0",
+  "description": "This folder contains questions and challenges related to this standard.",
+  "main": "challenges.js",
+  "scripts": {
+    "test": "mocha challenges.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jsdom": "^9.9.1",
+    "simple-encryptor": "^1.1.0"
+  }
+}
